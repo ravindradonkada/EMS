@@ -24,5 +24,11 @@ namespace EMS.BO
         {
 
         }
+
+        /*Employee Employer*/
+        public void Emp()
+        {
+
+        }
     }
 }
